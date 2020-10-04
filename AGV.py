@@ -1,3 +1,4 @@
+#此文件用来定义小车和订单类，以及小车的控制（单个小车）
 import networkx as nx
 import random
 import draw
